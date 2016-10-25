@@ -1,1 +1,2 @@
 new file with new text
+added new row per MD-002
